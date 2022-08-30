@@ -151,3 +151,12 @@ button {
   justify-content: space-around;
   border-top: 1px dotted gray;
 }
+
+.document {
+  display: flex;
+  align-items: center;
+  padding: 50px;
+  margin-bottom: 50px;
+  gap: 40px;
+
+}
